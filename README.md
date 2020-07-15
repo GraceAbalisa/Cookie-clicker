@@ -43,11 +43,12 @@ Maximilien is working mainly on the javascript
    
    #
 ![IMG_1673](https://user-images.githubusercontent.com/66485031/87525181-6f660e80-c689-11ea-83b2-62e9f8d7b69a.jpg)
-   
-   ![IMG_1674](https://user-images.githubusercontent.com/66485031/87525319-9f151680-c689-11ea-925c-709bc4418bfe.jpg)
-![IMG_1675](https://user-images.githubusercontent.com/66485031/87525324-a1777080-c689-11ea-9fe5-58b9f27f9d53.jpg)
     - On the first image you can see the prototype of the cookie-clicker page and the multiple options that are supposed to be on that cookie-clicker page.
+    
+   ![IMG_1674](https://user-images.githubusercontent.com/66485031/87525319-9f151680-c689-11ea-925c-709bc4418bfe.jpg)
     - On the second picture you cann see the prototype from closer
+    
+![IMG_1675](https://user-images.githubusercontent.com/66485031/87525324-a1777080-c689-11ea-9fe5-58b9f27f9d53.jpg) 
     - on the third picture you can see the multiple options from closer
 
    
