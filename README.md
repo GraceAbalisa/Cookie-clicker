@@ -63,7 +63,7 @@ Maximilien is working mainly on the javascript
 
    
      
-( ... ) ( !!! CAPTURE OF THE WEBSITE !!! ) 
+( !!! CAPTURE OF THE WEBSITE !!! ) 
 
 # You can check our website here --->
 
