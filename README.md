@@ -41,7 +41,7 @@ Maximilien is working mainly on the javascript
    
    We started this project by making a visual representation on a sheet of paper 
    
-  <img src=/home/becode/becode/cookie-clicker/IMG_1673.jpg>
+ ![alt text](http://url/to/IMG_1673.jpg)
    
    
      
