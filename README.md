@@ -31,10 +31,13 @@ Her tasks were the following  :
     - Merge the "Dev" branch into the "Master" branch.
     
 Nathalie is the one that is going to work mainly on the HTML and CSS.
+
      - Write the base structure for the project
      
 Maximilien is working mainly on the javascript
+
      - Prepare variables to allow control to button and label
+     
      - Ensure that the cookie-clicker respond to the click and the multiple options as increase the score, make and price a multiplier, auto-clicker, bonus , ...
      
    # Creation process
