@@ -13,4 +13,5 @@ Team challenge: 3
 - Maximilien https://github.com/PIERREMaximilien
 - Grace https://github.com/GraceAbalisa
 
-![](giphy.gif)
+
+![hippo](https://thatrandomvlog0428.tumblr.com/post/68436198160)
