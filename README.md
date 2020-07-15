@@ -41,5 +41,7 @@ Maximilien is working mainly on the javascript
    
    We started this project by making a visual representation on a sheet of paper 
    
+   <img src="./IMG_1673.jpg">
+   
    
      
