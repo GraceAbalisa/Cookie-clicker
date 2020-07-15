@@ -41,7 +41,8 @@ Maximilien is working mainly on the javascript
    
    We started this project by making a visual representation on a sheet of paper 
    
-![Alt text](relative/path/to/IMG_1673.jpg?raw=true "Title")
+   #
+![IMG_1673](https://user-images.githubusercontent.com/66485031/87525181-6f660e80-c689-11ea-83b2-62e9f8d7b69a.jpg)
    
    
      
