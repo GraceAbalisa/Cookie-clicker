@@ -9,11 +9,14 @@ Team challenge: 3
 
 # Welcome to our Cookie-clicker project.
 
+This are the members of this group:
+
 - Nathalie https://github.com/Nahavela
 - Maximilien https://github.com/PIERREMaximilien
 - Grace https://github.com/GraceAbalisa
 
 ![hippo](https://media.giphy.com/media/slhPb2RuWap7q/giphy.gif))
+
 
 # The  Mission (Team Work)
 
@@ -21,8 +24,10 @@ As a group of 3, we all decided which task we were going to do
 
 We decided to choose Grace as our Git Master,
 Her tasks were the following  :
-
     - Create the Repository
     - Send an invitation to each team member
     - Merge the "Dev" branch into the "Master" branch.
+ 
+ Nathalie is the one who is going to work on the HTML/CSS :
+   -
 
