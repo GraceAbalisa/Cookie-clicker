@@ -41,7 +41,7 @@ Maximilien is working mainly on the javascript
    
    We started this project by making a visual representation on a sheet of paper 
    
- ![alt text](http://url/to/IMG_1673.jpg)
+![Alt text](relative/path/to/IMG_1673.jpg?raw=true "Title")
    
    
      
