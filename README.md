@@ -1,7 +1,9 @@
 # Cookie-clicker
 
 Type of challenge: Team work
+
 Duration : 3 days
+
 Team challenge: 3
    - frontend: 1 or 2
    - backend: 1 or 2
